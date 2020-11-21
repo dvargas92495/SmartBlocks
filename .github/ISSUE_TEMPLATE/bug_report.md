@@ -1,38 +1,45 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report a bug/issue
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!-- Before submitting a new issue, please make sure that the same issue has not been created already -->
+<!-- NOTE: Stuff inside <! -- STUFF -- > is for guidance to help properly fill out this form and will NOT show up in your post -->
+<!-- Click the "Preview" button/tab above to see what the post will look like to everyone else. -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### 💻 Environment
+<!-- Details about your device and browser -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+<!-- simply copy an option below and paste BEFORE "<!-" (ex. Platform: Windows <! -- macOS/Windows...) -->
+Platform: <!-- macOS/Windows/iPad/iPhone/Android/Linux -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+<!-- simply copy an option below and paste BEFORE "<!-" (ex. Browser: Chrome <! -- Chrome/Firefox/...) -->
+Browser: <!-- Chrome/Firefox/Safari/Edge/IE/Opera/Brave/Vivaldi -->
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+### 🐞 Describe the behavior of the bug/issue you are having
+<!-- A clear and concise description of the issue(s) you are having -->
 
-**Additional context**
-Add any other context about the problem here.
+
+### ✔️ Describe what you think the Expected Behavior should be
+<!-- A clear and concise description of what you expect should happen -->
+
+
+### 📜 Steps to reproduce the issue you are having
+<!-- Clear steps to reproduce the issue -->
+
+1. 
+2. 
+3. 
+
+### 🔨 Describe any workarounds you've created/discovered
+<!-- A clear and concise description of any alternative solutions or workarounds you've tried, developed or discovered -->
+
+
+### 📷 Additional Info (Errors, Screenshots, GIFs, etc.)
+<!-- Add any other info like error messages, logs, screenshots/GIFs etc. -->
+
