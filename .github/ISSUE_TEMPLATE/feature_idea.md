@@ -10,7 +10,8 @@ assignees: ''
 
 
 <!-- Before submitting a new issue, please make sure that the same issue has not been created already -->
-<!-- NOTE: Stuff inside <! -- STUFF -- > will NOT show up in your post and is for direction/guidance to help you properly fill out this Issue form -->
+<!-- NOTE: Stuff inside <! -- STUFF -- > will NOT show up in your post and is for direction/guidance to help you properly fill out this form -->
+<!-- Click the "Preview" button/tab above to see what the post will look like to everyone else. -->
 
 ### 💻 Environment
 <!-- Details about your device and browser -->
