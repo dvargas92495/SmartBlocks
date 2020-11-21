@@ -2,7 +2,7 @@
 name: Feature Request / New Idea
 about: Suggest an idea or new feature
 title: ''
-labels: ''
+labels: idea
 assignees: ''
 
 ---
@@ -10,7 +10,7 @@ assignees: ''
 
 
 <!-- Before submitting a new issue, please make sure that the same issue has not been created already -->
-<!-- NOTE: Stuff inside <! -- STUFF -- > will NOT show up in your post and is for direction/guidance to help you properly fill out this form -->
+<!-- NOTE: Stuff inside <! -- STUFF -- > is for guidance to help properly fill out this form and will NOT show up in your post -->
 <!-- Click the "Preview" button/tab above to see what the post will look like to everyone else. -->
 
 ### 💻 Environment
