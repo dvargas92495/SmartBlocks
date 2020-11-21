@@ -17,6 +17,7 @@ assignees: ''
 
 <!-- simply copy an option below and paste BEFORE "<!-" (ex. Platform: Windows <! -- macOS/Windows...) -->
 Platform: <!-- macOS/Windows/iPad/iPhone/Android/Linux -->
+
 <!-- simply copy an option below and paste BEFORE "<!-" (ex. Browser: Chrome <! -- Chrome/Firefox/...) -->
 Browser: <!-- Chrome/Firefox/Safari/Edge/IE/Opera/Brave/Vivaldi -->
 
@@ -37,6 +38,6 @@ Browser: <!-- Chrome/Firefox/Safari/Edge/IE/Opera/Brave/Vivaldi -->
 <!-- A clear and concise description of any alternative solutions or features you've tried or considered. -->
 
 
-### Additional Context
-<!-- Add any other context or screenshots about the feature request here -->
+### Additional Context (Screenshots, GIFs, etc.)
+<!-- Add any other context or screenshots/GIFs about the feature request here -->
 
