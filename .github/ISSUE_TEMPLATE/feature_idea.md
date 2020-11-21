@@ -22,22 +22,22 @@ Platform: <!-- macOS/Windows/iPad/iPhone/Android/Linux -->
 Browser: <!-- Chrome/Firefox/Safari/Edge/IE/Opera/Brave/Vivaldi -->
 
 
-### 📒 Describe the solution you'd like
+### 📋 Describe the solution you'd like
 <!-- Short and concise description of the imporovement/feature -->
 
 
-### Is your feature request related to a problem? Please describe.
+### ⚠️ Is your feature request related to a problem? Please describe.
 <!-- A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] -->
 
 
-### ⭐️ Why do you want this?
+### 🔑 Why do you want this?
 <!-- Let us know what is the use case that this improvement solves -->
 
 
-### Describe any alternatives you've considered
+### ❔ Describe any alternatives you've considered
 <!-- A clear and concise description of any alternative solutions or features you've tried or considered. -->
 
 
-### Additional Context (Screenshots, GIFs, etc.)
+### 📷 Additional Context (Screenshots, GIFs, etc.)
 <!-- Add any other context or screenshots/GIFs about the feature request here -->
 
