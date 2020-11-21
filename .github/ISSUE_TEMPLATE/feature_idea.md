@@ -18,7 +18,7 @@ assignees: ''
 <!-- simply copy an option below and paste BEFORE "<!-" (ex. Platform: Windows <! -- macOS/Windows...) -->
 Platform: <!-- macOS/Windows/iPad/iPhone/Android/Linux -->
 <!-- simply copy an option below and paste BEFORE "<!-" (ex. Browser: Chrome <! -- Chrome/Firefox/...) -->
-Browser: <!-- Chrome/Firefox/Safari/Edge/IE/Opera/Brave -->
+Browser: <!-- Chrome/Firefox/Safari/Edge/IE/Opera/Brave/Vivaldi -->
 
 
 ### 📒 Describe the solution you'd like
