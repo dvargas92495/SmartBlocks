@@ -11,6 +11,11 @@ assignees: ''
 <!-- NOTE: Stuff inside <! -- STUFF -- > is for guidance to help properly fill out this form and will NOT show up in your post -->
 <!-- Click the "Preview" button/tab above to see what the post will look like to everyone else. -->
 
+
+## 🐞 Describe the behavior of the bug/issue you are having
+<!-- A clear and concise description of the issue(s) you are having -->
+
+
 ## 💻 Environment
 <!-- Details about your device and browser -->
 
@@ -19,11 +24,6 @@ Platform: <!-- macOS/Windows/iPad/iPhone/Android/Linux -->
 
 <!-- simply copy an option below and paste BEFORE "<!-" (ex. Browser: Chrome <! -- Chrome/Firefox/...) -->
 Browser: <!-- Chrome/Firefox/Safari/Edge/IE/Opera/Brave/Vivaldi -->
-
-
-## 🐞 Describe the behavior of the bug/issue you are having
-<!-- A clear and concise description of the issue(s) you are having -->
-
 
 ## ✔️ Describe what you think the Expected Behavior should be
 <!-- A clear and concise description of what you expect should happen -->
