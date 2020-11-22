@@ -12,7 +12,7 @@ assignees: ''
 <!-- Click the "Preview" button/tab above to see what the post will look like to everyone else. -->
 
 
-## 🐞 Describe the behavior of the bug/issue you are having
+## 🐞 Describe the behavior of the bug/issue you are encountering
 <!-- A clear and concise description of the issue(s) you are having -->
 
 
