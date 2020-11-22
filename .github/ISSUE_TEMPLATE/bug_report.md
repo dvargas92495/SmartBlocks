@@ -11,7 +11,7 @@ assignees: ''
 <!-- NOTE: Stuff inside <! -- STUFF -- > is for guidance to help properly fill out this form and will NOT show up in your post -->
 <!-- Click the "Preview" button/tab above to see what the post will look like to everyone else. -->
 
-### 💻 Environment
+## 💻 Environment
 <!-- Details about your device and browser -->
 
 <!-- simply copy an option below and paste BEFORE "<!-" (ex. Platform: Windows <! -- macOS/Windows...) -->
@@ -21,25 +21,25 @@ Platform: <!-- macOS/Windows/iPad/iPhone/Android/Linux -->
 Browser: <!-- Chrome/Firefox/Safari/Edge/IE/Opera/Brave/Vivaldi -->
 
 
-### 🐞 Describe the behavior of the bug/issue you are having
+## 🐞 Describe the behavior of the bug/issue you are having
 <!-- A clear and concise description of the issue(s) you are having -->
 
 
-### ✔️ Describe what you think the Expected Behavior should be
+## ✔️ Describe what you think the Expected Behavior should be
 <!-- A clear and concise description of what you expect should happen -->
 
 
-### 📜 Steps to reproduce the issue you are having
+## 📜 Steps to reproduce the issue you are having
 <!-- Clear steps to reproduce the issue -->
 
 1. 
 2. 
 3. 
 
-### 🔨 Describe any workarounds you've created/discovered
+## 🔨 Describe any workarounds you've created/discovered
 <!-- A clear and concise description of any alternative solutions or workarounds you've tried, developed or discovered -->
 
 
-### 📷 Additional Info (Errors, Screenshots, GIFs, etc.)
+## 📷 Additional Info (Errors, Screenshots, GIFs, etc.)
 <!-- Add any other info like error messages, logs, screenshots/GIFs etc. -->
 
