@@ -16,6 +16,7 @@ assignees: ''
 <!-- Paste directly into GitHub below. Formatting should properly inherit indents/bullets from the "dashes" -->
 <!-- Select the "Preview" button above to make sure the indents/child block structure looks correct -->
 <!-- Use the following as a guide: https://github.com/roamhacker/SmartBlocks/issues/1 -->
+<!-- See fully populated Example here: https://github.com/roamhacker/SmartBlocks/issues/2 -->
 
 
 ## 📋 Describe the SmartBlock
