@@ -1,20 +1,12 @@
-## 📋 Describe the new feature/idea/enhancement you are requesting
+## 📋 Describe the feature/idea/enhancement you want
 
 
 ## 🔑 Why do you want this?
 
 
-## ⚠️ Is your feature request related to a problem? Please describe.
+## ⚠️ Is your request related to a problem?
 
 
 ## 🔨 Describe any alternatives you've considered
 
-
-## 💻 Environment
-
-Operating System: 
-Device Type: 
-Browser: 
-
-## 📷 Additional Info (Screenshots, GIFs, etc.)
 
