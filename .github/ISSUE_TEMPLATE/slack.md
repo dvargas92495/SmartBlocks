@@ -13,9 +13,7 @@
 ## 💻 Environment
 
 Operating System: 
-
 Device Type: 
-
 Browser: 
 
 ## 📷 Additional Info (Screenshots, GIFs, etc.)
